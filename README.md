@@ -15,7 +15,7 @@ Each service is independent and interacts with others to provide a seamless user
 ### Workflow
 
 #### 1. User Registration and Login:
-- A user signs up via the User Service and logs in to receive a JWT token.
+- A user signs up via the User Service and logs in.
 
 #### 2. Order Creation:
 - The user creates an order via the Order Service. The order is saved with a status of "Pending".
