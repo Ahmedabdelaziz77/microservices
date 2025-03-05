@@ -40,7 +40,7 @@ Each service is independent and interacts with others to provide a seamless user
 
 **Endpoints**:
 - `POST /api/user`: Register a new user.
-- `POST /api/login`: Authenticate a user and return a JWT token.
+- `POST /api/login`: Authenticate a user.
 - `GET /api/user/{user_id}`: Fetch user details by ID.
 
 ### 2. Order Service
